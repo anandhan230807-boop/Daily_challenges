@@ -22,3 +22,11 @@ Day-2:
      Q3.Write a C Program to Swap of two numbers without using third variable.
      Q4.Write C Program to print the last digit and all digits Except last digit of given number N.
      Q5.Write a C Program to print the square and cube of a given number.
+
+Day-4:
+    Q1.Write a C Program to calculate the average of three numbers.
+    Q2.Write a C Program to check whether two numbers are equal True if equal else False.
+    Q3.Write a C Program to print whether a number is positive or negative.
+    Q4.Write a C Program to find the greatest of three numbers.
+
+
