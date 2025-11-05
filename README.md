@@ -49,5 +49,9 @@ Day-8:
     Q2. Write a C program to check whether the digits of a number are in ascending order.
     Q3. Write a C program to print the factorial of a given number N.
     Q4. Write a C program to calculate the count, sum, product of digits in a given number.
-
+Day-9:
+    Q1. Write a C program to reverse a given number.
+    Q2. Write a C program to check whether a number is palindrome or not.
+    Q3. Write a C program to check whether a number is Armstrong number or not.
+    Q4. Write a C program to find the GCD and LCM of two numbers.
 
